@@ -24,3 +24,32 @@ button {
     border-radius: 5px;
     padding: 0 0 4px 0;
 }
+#list li {
+    font-size: 24px;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    cursor: pointer;
+}
+.box {
+    float: left;
+    margin-top: 3px;
+    margin-right: 30px;
+    height: 17px;
+    width: 17px;
+    background: url(http://luketheterrible.github.io/ShoppingList/images/box_Sprite.png);
+}
+.strike {
+    text-decoration: line-through;
+}
+.Checked {
+    height: 18px;
+    background: url('http://luketheterrible.github.io/ShoppingList/images/box_Sprite.png') 17px 0;
+}
+.delete {
+    float: right;
+    margin-top: 3px;
+    display: none;
+}
+.show {
+	display: inline;
+}
