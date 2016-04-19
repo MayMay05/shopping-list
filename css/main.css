@@ -9,3 +9,18 @@ hr {
     margin-left: 150px;
     margin-right: 150px;
 }
+#item {
+    margin-top: 8px;
+    height: 20px;
+    width: 200px;
+}
+button {
+    height: 24px;
+    width: 38px;
+    background: none;
+    font-size: 18px;
+    font-family: 'Poiret One', cursive
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 0 0 4px 0;
+}
