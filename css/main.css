@@ -9,6 +9,10 @@ hr {
     margin-left: 150px;
     margin-right: 150px;
 }
+.add-section {
+	height: 50px;
+	width: 100%;
+}
 #item {
     margin-top: 8px;
     height: 20px;
@@ -23,6 +27,13 @@ button {
     border: 2px solid;
     border-radius: 5px;
     padding: 0 0 4px 0;
+}
+#item #add {
+	
+}
+.list-section {
+	height: 250px;
+	width: 100%;
 }
 #list li {
     font-size: 24px;
